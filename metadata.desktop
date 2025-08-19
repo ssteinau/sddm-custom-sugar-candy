@@ -1,8 +1,8 @@
 [SddmGreeterTheme]
-Name=Eucalyptus Drop
+Name=Nadir Void
 Description=Theme for SDDM
-Author=Matt Jolly
-Copyright=Copyright (C) 2022 Matt Jolly
+Author=Sebastian Steinau
+Copyright=Copyright (C) 2025 Sebastian Steinau
 License=GPL-3.0-or-later
 Type=sddm-theme
 Version=2.0.0
@@ -11,7 +11,7 @@ Screenshot=Previews/PartialBlur.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Email=Matt.Jolly@footclan.ninja
-Theme-Id=eucalyptus-drop
+Email=sebastian.steinau@steinautech.com
+Theme-Id=nadir-void
 Theme-API=2.11
 QtVersion=6
